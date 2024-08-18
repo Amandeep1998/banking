@@ -1,6 +1,6 @@
-import { Input } from "./input";
+import { Input } from "./ui/input";
 import React from "react";
-import { FormField, FormLabel, FormControl, FormMessage } from "./form";
+import { FormField, FormLabel, FormControl, FormMessage } from "./ui/form";
 
 import { z } from "zod";
 
